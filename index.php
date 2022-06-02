@@ -29,8 +29,8 @@ input[type=text], input[type=date], input[type=password] {
 
 <form action="/action_page.php">
   <div class="container">
-    <h1>Register</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>REGISTER</h1>
+    <p>Please create an account.</p>
     <hr>
     <label for="username"><b>Username</b></label>
     <input type="text" placeholder="Username" name="username" id="username" required>
