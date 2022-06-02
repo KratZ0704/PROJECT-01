@@ -29,7 +29,7 @@ input[type=text], input[type=date], input[type=password] {
 
 <form action="/action_page.php">
   <div class="container">
-    <h1>REGISTER</h1>
+    <h1><center>REGISTER</center></h1>
     <p>Please create an account.</p>
     <hr>
     <label for="username"><b>Username</b></label>
